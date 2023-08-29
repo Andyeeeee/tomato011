@@ -1,0 +1,6 @@
+1.npm i pinia-plugin-persistedstate 通知套件
+2.npm i @vueuse/core           vue.use 套件  通知套件
+3. i --save-dev vite-plugin-radar   這邊打的是npm i -D vite-plugin-radar
+4.npm i -D vite-plugin-pwa
+
+vie-plugin-radar  這個式雷達  google分析 Google Analytics
